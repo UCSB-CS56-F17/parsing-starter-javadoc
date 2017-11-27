@@ -1,6 +1,6 @@
 # parsing-starter-javadocs
 
-[Javadoc for CS56 F17 lab08 starter code](https://ucsb-cs56-f17.github.io/parsting-starter-javadocs/docs/apidocs/)
+[Javadoc for CS56 F17 lab08 starter code](https://ucsb-cs56-f17.github.io/parsing-starter-javadocs/docs/apidocs/)
 
 See <https://ucsb-cs56-f17.github.io/lab/lab08/> for more explanation.
 
